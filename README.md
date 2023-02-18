@@ -8,13 +8,11 @@ The General Manager of a multinational wholesaler decided to start exploiting da
 
 The project was divided in 6 weekly sprints. I reported our analysis to each member of the steering committee, each week.
 
-Database tables (*)
+Database tables
 - **Ventas** (Sales)
 - **Clientes** (Clients): clients are *stores*
 - **Productos** (Products)
 - **Canales** (Channels)
-
-(*) *Names of tables and variables are in Spanish. I used comments on the SQL code to specify English equivalents of the main ones.*
 
 I used SQL and business analytics techniques:
 
