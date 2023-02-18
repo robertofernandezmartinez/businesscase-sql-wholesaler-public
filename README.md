@@ -17,15 +17,9 @@ Database tables (*)
 I used SQL and business analytics techniques:
 
 - **Data cleaning and preparation**
-  -  Data types transformations
-  -  Removing duplicates
-  -  New tables
-  -  New variables
-  -  Views
 - **Entity Relationship optimization**
 - **Margin growth**
 - **Portfolio analysis**
-
 - **Customer segmentation**
 - **Customer Development Potential**
 - **Customer reactivation**
