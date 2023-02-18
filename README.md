@@ -6,7 +6,7 @@
 
 The General Manager of a multinational wholesaler decided to start exploiting data in order to **improve revenue**.
 
-The project was divided in 6 weekly sprints. I reported our analysis to each member of the steering committee, each week.
+The project was divided in 6 weekly sprints. I reported our analysis to each member of the steering committee, every week.
 
 Database tables
 - **Ventas** (Sales)
