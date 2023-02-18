@@ -1,6 +1,6 @@
 # Business case - SQL - Revenue optimization for a multinational wholesaler
 
-*(This is only a public readme. Project files are private: you must request for access)*
+**(This is only a public readme. Project files are private: you must request for access)**
 
 The General Manager of a multinational wholesaler decided to start exploiting data in order to **improve revenue**.
 
